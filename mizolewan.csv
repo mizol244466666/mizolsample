@@ -18,7 +18,7 @@ send
 refresh
 Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-MIZOL,https://drive.google.com/file/d/1u5XATQEKp9ZLfQATQ2UbyoMkf3ky2te3/view?usp=sharing,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,O-6066,,
+MIZOL,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,O-6066,,
 MARIE,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6067,O-6066,
  Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6068,O-6066,
  Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6069,O-6066,
